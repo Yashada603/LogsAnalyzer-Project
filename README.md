@@ -1,8 +1,3 @@
-# LogsAnalyzer-Project
-Here’s your **Log Analyzer Project** in the same format:
-
----
-
 📊 **LogAnalyzer - System Log Monitoring Tool**
 
 📌 Description
